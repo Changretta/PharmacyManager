@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "176311351830",
+    "firebase_url": "https://pharmacymanager-45f3c.firebaseio.com",
+    "project_id": "pharmacymanager-45f3c",
+    "storage_bucket": "pharmacymanager-45f3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176311351830:android:5e5a135815022d2b",
+        "android_client_info": {
+          "package_name": "com.example.pharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176311351830-hv7u1jp48jal2cbc9cmn1rbh8lakkqnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKdR6X7kWnCWya8HAtJi1xDZ-vYYnbJYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176311351830-hv7u1jp48jal2cbc9cmn1rbh8lakkqnd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "176311351830-dk8sruc47rkj751li0o4eklsdamp85f4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "nikos-me.PharmacyManager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
